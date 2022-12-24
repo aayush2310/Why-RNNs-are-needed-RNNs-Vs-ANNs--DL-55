@@ -17,3 +17,9 @@ ANN does not have the capability of memory to seggregate what came first and wha
 Applications:-
 1)Sentiment Analysis-we get a text i/p and we need to find the sentiment in that i/p text.
                      link:-"text2data.com/Demo"
+2)sentence completions eg. in gmail,phone keypad
+3)Image caption generator,video comentary(used by blind people to listen to the commentary of what they see)
+4)Google translator,language detector
+5)Question and answer demo(give a paragraph as i/p and get answers to the question you ask to it)
+5)Time series forcasting
+6)speech classification
