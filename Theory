@@ -1,0 +1,19 @@
+It is a special class of neural networks specifically used for sequences,nlp related task.
+
+In the examples of iq,marks,placemet if i interchange iq and marks in our input layer in the ANN,then the final result will not vary.so,in this type of problem sequence
+does not matter.
+in text data-sequence matters.
+time series based data-stocks of a company over time
+speech data
+dna sequence
+
+Till now we have not seen a neuralnetwork where we can vary the i/p size
+In text classification problem we see that input size varies.
+textual data can be of different size.
+we can use zero padding-but what if we have a vocabulary of 10k words-lots of irrelevent work.-number of weights increases.
+and what if in test data there is a point having 200 words,then 0 padding will also fail.
+ANN does not have the capability of memory to seggregate what came first and what last.
+
+Applications:-
+1)Sentiment Analysis-we get a text i/p and we need to find the sentiment in that i/p text.
+                     link:-"text2data.com/Demo"
